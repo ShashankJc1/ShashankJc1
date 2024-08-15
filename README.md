@@ -14,8 +14,7 @@
 
 - 🌱 I’m currently pursuing **Masters in Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://shashankjc1.github.io/web/#about](https://shashankjc1.github.io/web/#about)
-
+- 👨‍💻 All of my projects are available in repos.
 - 📫 How to reach me **jcshashank@gmail.com**
 
 - 📄 Know about my experiences [https://shashankjc1.github.io/web/#about](https://shashankjc1.github.io/web/#about)
