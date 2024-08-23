@@ -7,7 +7,7 @@
 
 
 <!--Start Intro-->               
-<p align="left">I am a passionate Software developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a passionate Software developer and Machine Learning Enthusiast with a huge love for Python and javaScript </p>
 
  
 - 🔭 I’m currently working on **ExamGenie**
