@@ -17,7 +17,7 @@
 - 👨‍💻 All of my projects are available in repos.
 - 📫 How to reach me **jcshashank@gmail.com**
 
-- 📄 Know about my experiences [https://shashankjc1.github.io/web/#about](https://shashankjc1.github.io/web/#about)
+- 📄 Know about my experiences [https://shashankjc1.github.io/web/#about]([https://shashankjc1.github.io/web/#about](https://myportfolio-git-main-shashankjc1s-projects.vercel.app/))
 <!--End Intro-->
 
 <!--Profile Count Badge-->
